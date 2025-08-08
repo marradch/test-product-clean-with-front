@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ProductApiTest::testCreateProductSuccessfully":8,"ProductRepositoryTest::testSaveCallsPdoCorrectly":7},"times":{"ProductApiTest::testCreateProductSuccessfully":0.029,"CreateProductDTOTest::testInvalidNameTriggersValidationError":0.003,"ProductRepositoryTest::testSaveCallsPdoCorrectly":0.002}}
