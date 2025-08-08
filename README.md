@@ -6,8 +6,8 @@
 ### 🐳 Запуск проекта
 
 ```bash
-git clone git@github.com:marradch/test-product-clean.git
-cd test-product-clean
+git clone git@github.com:marradch/test-product-clean-with-front.git
+cd test-product-clean-with-front
 docker-compose up -d --build
 ````
 
@@ -100,6 +100,8 @@ DB_PASS=123456
 │   ├── DTO/               # DTO-запросы и ответы
 │   ├── Entity/            # Сущности (Product и др.)
 │   ├── Repository/        # Работа с БД
+│   ├── Views/             # Представления
+│   ├── Helpers/           # Помошники
 │   └── Enum/              # Перечисления (ENUM)
 ├── tests/
 │   ├── Integration/
